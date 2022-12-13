@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Angapp.API.props" />
+</Project>
